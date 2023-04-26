@@ -1,0 +1,39 @@
+.fondo{
+    background-color: rgb(52, 52, 52);
+    padding-bottom: 20px;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.fuenteHeader{
+    font-size: 40px;
+    font-weight: lighter;
+    color:antiquewhite;
+}
+.navTitulos{
+    width:70%;
+    display: flex;
+    justify-content: space-around;
+    color: antiquewhite;
+}
+.letras{
+    color:antiquewhite;
+}
+.letras:hover{
+    color: rgb(253, 1, 1);
+    background-color: black;
+}
+.busqueda{
+    width: 25%;
+    padding: 10px;
+    align-content: center;
+}
+.caja{
+    height: 55px;
+    padding: 10px;
+}
+.caja:hover{
+    background-color: black;
+}
